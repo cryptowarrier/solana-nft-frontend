@@ -7,4 +7,4 @@ To get started with this source, clone this repo and follow these commands:
 2. Run `npm run start` to start the project
 3. Start coding!
 
-[Screenshot_6.png]
+![screenshot][Screenshot_6.png]
